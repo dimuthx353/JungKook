@@ -1,6 +1,6 @@
 # Jungkook Portfolio Website
 
-![Website Preview](path/to/screenshot.png)
+![Website Preview](https://github.com/dimuthx353/JungKook/blob/main/images/Screenshot%202024-08-05%20152958.png)
 
 This is a portfolio website dedicated to Jungkook, created using HTML, CSS, JavaScript, jQuery, Flexbox, Grid, transitions, and animations. The website showcases various sections, including an introduction, gallery, biography, and contact form.
 
